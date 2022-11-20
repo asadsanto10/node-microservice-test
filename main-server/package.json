@@ -1,0 +1,14 @@
+{
+  "name": "main-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "santo",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy-middleware": "^2.0.6",
+    "nodemon": "^2.0.16"
+  }
+}
